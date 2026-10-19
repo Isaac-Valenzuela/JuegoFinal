@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b88c6c160f4004e92f9c49b58d4253, type: 3}
+  m_Name: Iteam_Medallon
+  m_EditorClassIdentifier: Assembly-CSharp::LaResidencia.ItemData
+  id: 
+  displayName: "Medall\xF3n de plata"
+  icon: {fileID: 0}
+  category: 0
+  contractHint: Dormitorio secundario
+  runNoiseBonus: 0
+  throwable: 0
+  throwNoiseRadius: 8

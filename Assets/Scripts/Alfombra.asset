@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2893cb89c9bc9104b94ac81a7fcce629, type: 3}
+  m_Name: Alfombra
+  m_EditorClassIdentifier: Assembly-CSharp::LaResidencia.SurfaceNoiseProfile
+  surface: 0
+  crouchRadius: 0.5
+  walkRadius: 2
+  runRadius: 5
+  footstepClips: []
